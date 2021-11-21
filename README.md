@@ -44,6 +44,9 @@ alt="typescript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"
             alt="reactjs" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img
+            src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"
+            alt="reactjs" width="40" height="40"/> </a>
     
     <a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
